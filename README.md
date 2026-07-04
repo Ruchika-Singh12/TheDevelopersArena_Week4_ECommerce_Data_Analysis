@@ -1,10 +1,6 @@
 # Week 4: Complete Data Analysis Project
 ## E-Commerce Sales Analysis with Data Visualization
 
-> **Course:** Python Programming Bootcamp | Week 4  
-> **Due:** July 7, 2026  
-> **Difficulty:** Intermediate
-
 ---
 
 ## Project Overview and Objectives
@@ -93,8 +89,9 @@ That's it! All 4 charts will be saved in the `visualizations/` folder.
 ---
 
 ## Screenshots
-All 4 charts are in the `visualizations/` folder.
+<img width="1334" height="732" alt="chart1_bar_product_sales" src="https://github.com/user-attachments/assets/f851811c-0c4d-40c1-8fed-a3b0bfa418a4" />
+
 
 ---
 
-*Project by: [Your Name] | Week 4 Submission*
+*Project by: Ruchika Singh
