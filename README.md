@@ -90,7 +90,9 @@ That's it! All 4 charts will be saved in the `visualizations/` folder.
 
 ## Screenshots
 <img width="1334" height="732" alt="chart1_bar_product_sales" src="https://github.com/user-attachments/assets/f851811c-0c4d-40c1-8fed-a3b0bfa418a4" />
-
+<img width="982" height="1034" alt="chart2_pie_region_sales" src="https://github.com/user-attachments/assets/d6da455f-a734-4cbe-8706-ed4b8ddcde43" />
+<img width="1634" height="731" alt="chart3_line_monthly_trend" src="https://github.com/user-attachments/assets/9f9771bb-bcd6-4d8c-9479-8b16bcec1ed6" />
+<img width="1333" height="732" alt="chart4_hbar_units_sold" src="https://github.com/user-attachments/assets/b0ca5d2f-7eeb-4728-a1d1-03342108f50d" />
 
 ---
 
